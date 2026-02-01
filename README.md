@@ -15,7 +15,7 @@ Utilizar o NotebookLM para transformar uma massa de dados brutos (documentaçõe
 * **GitHub:** Para versionamento e compartilhamento do estudo de caso.
 * **Hardware:** Usei meu desktop pessoal. Criei sistema em pendrive para os testes, e usei adaptadores USB antigos de wifi e Bluetooth.
 
-![Analise_diagnostico_Sistema_MindMap.png](outputs/Analise_diagnostico_Sistema_MindMap.png)
+![Analise_diagnostico_Sistema_MindMap.png](outputs/Analise_diagnostico_Sistema.png)
 
 ### **Comparado à Leitura Manual**
 *   **Velocidade de Correlação:** Enquanto um humano levaria horas para cruzar informações entre o `dmesg` e o `syslog`, o NotebookLM identifica instantaneamente que a falha de firmware da GPU no boot está correlacionada com a lentidão do sistema registrada posteriormente.
