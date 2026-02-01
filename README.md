@@ -13,6 +13,9 @@ Utilizar o NotebookLM para transformar uma massa de dados brutos (documentaçõe
 ## 🛠️ Tecnologias Utilizadas
 * **NotebookLM (Google):** IA para análise de fontes e síntese de conhecimento.
 * **GitHub:** Para versionamento e compartilhamento do estudo de caso.
+* **Hardware:** Usei meu desktop pessoal. Criei sistema em pendrive para os testes, e usei adaptadores USB antigos de wifi e Bluetooth.
+
+![Analise_diagnostico_Sistema_MindMap.png](outputs/Analise_diagnostico_Sistema_MindMap.png)
 
 ### **Comparado à Leitura Manual**
 *   **Velocidade de Correlação:** Enquanto um humano levaria horas para cruzar informações entre o `dmesg` e o `syslog`, o NotebookLM identifica instantaneamente que a falha de firmware da GPU no boot está correlacionada com a lentidão do sistema registrada posteriormente.
@@ -74,12 +77,16 @@ Embora poderoso, o uso de IAs em nuvem para logs requer cautela extrema:
 * **Retenção de Conhecimento:** A capacidade de perguntar "Liste os erros mais urgentes ou sugira soluções" diretamente para a documentação acelerou o trabalho.
 * **Automação de Notas:** Relatórios que levavam horas para serem organizadas foram geradas e estruturadas automaticamente.
 * **Atenção para a segurança:**  Logs podem conter dados sensíveis, e devem ser anonimizados previamente ( pode ser feito via script )
- **Conclusões**
 
+
+## 🎯 Conclusões*
 **Ele não substitui um sistema de monitoramento em tempo real**, mas reduz drasticamente o tempo de resposta em investigações complexas de sistemas.
 
----
-**NotebookLM:**
-https://notebooklm.google.com/notebook/a8fade5b-5b18-4040-88e7-1badbc762e45?authuser=4
 🖋️ **Projeto realizado por:** Luciana Jorge de Faria
+
+🔗**NotebookLM:**
+https://notebooklm.google.com/notebook/a8fade5b-5b18-4040-88e7-1badbc762e45?authuser=4
+
 🔗 **LinkedIn:** https://www.linkedin.com/in/luciana-j-1419461b9/
+
+![Analise_diagnostico_Sistema_MindMap.png](outputs/Analise_diagnostico_Sistema_MindMap.png)
