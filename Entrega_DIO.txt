@@ -1,0 +1,15 @@
+
+O notebookLm é ótimo como auxiliar de estudos, mas resolvi testar como ele se sai auxiliando na auditoria  rápida de logs do sistema, ao invés de criar um ETL para isso.
+
+Considero que deu muito certo, após anonimizar os logs enviei como fonte para o Notebooklm e foi bem rápido.
+
+Usei meu desktop pessoal e criei sistema em pendrive para os testes, e usei adaptadores USB antigos de wifi e Bluetooth:
+
+Distributor ID: Ubuntu
+
+Description:  Ubuntu 25.10 ( upgrade da versão LTS anterior )
+
+Release:    25.10
+
+Codename:    questing
+
